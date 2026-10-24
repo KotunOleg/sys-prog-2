@@ -1,4 +1,10 @@
 bin/
+bin_macos/
 tools/
 *.data
 *.data.old
+results/power_O0_naive.txt
+results/power_O0_ikj.txt
+results/power_O3_naive.txt
+results/power_O3_ikj.txt
+results/power_idle.txt

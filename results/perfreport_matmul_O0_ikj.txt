@@ -1,0 +1,113 @@
+# To display the perf.data header info, please use --header/--header-only options.
+#
+#
+# Total Lost Samples: 0
+#
+# Samples: 44K of event 'task-clock:ppp'
+# Event count (approx.): 11248500000
+#
+# Children      Self  Symbol                   IPC   [IPC Coverage]
+# ........  ........  .......................  ....................
+#
+   100.00%     0.00%  [.] _start               -      -            
+            |
+            ---_start
+               __libc_start_main
+               0xfcefc15a84c4
+               main
+               |          
+                --99.96%--matmul_ikj
+
+   100.00%     0.00%  [.] __libc_start_main    -      -            
+            |
+            ---__libc_start_main
+               0xfcefc15a84c4
+               main
+               |          
+                --99.96%--matmul_ikj
+
+   100.00%     0.00%  [.] main                 -      -            
+            |
+            ---main
+               |          
+                --99.96%--matmul_ikj
+
+    99.99%     0.00%  [.] 0x0000fcefc15a84c4   -      -            
+            |
+            ---0xfcefc15a84c4
+               main
+               |          
+                --99.96%--matmul_ikj
+
+    99.96%    99.90%  [.] matmul_ikj           -      -            
+            |          
+             --99.90%--_start
+                       __libc_start_main
+                       0xfcefc15a84c4
+                       main
+                       matmul_ikj
+
+     0.05%     0.00%  [.] 0xffff800080011800   -      -            
+     0.05%     0.00%  [.] 0xffff8000816de5a4   -      -            
+     0.05%     0.00%  [.] 0xffff8000816dd7cc   -      -            
+     0.04%     0.00%  [.] 0xffff8000816dd674   -      -            
+     0.04%     0.00%  [.] 0xffff8000800d5934   -      -            
+     0.04%     0.00%  [.] 0xffff8000800d55c0   -      -            
+     0.04%     0.00%  [.] 0xffff800080017850   -      -            
+     0.04%     0.00%  [.] 0xffff800080017520   -      -            
+     0.04%     0.00%  [.] 0xffff8000800177a4   -      -            
+     0.04%     0.00%  [.] 0xffff8000800107e0   -      -            
+     0.03%     0.03%  [k] 0xffff8000800d5098   -      -            
+     0.03%     0.00%  [.] 0xffff800080011648   -      -            
+     0.03%     0.00%  [.] 0xffff8000816de514   -      -            
+     0.02%     0.01%  [.] fill_matrix          -      -            
+     0.02%     0.00%  [.] 0xffff8000816dd384   -      -            
+     0.02%     0.00%  [.] 0xffff800080043250   -      -            
+     0.02%     0.00%  [.] 0xffff8000816f448c   -      -            
+     0.02%     0.00%  [.] 0xffff8000816f3fec   -      -            
+     0.02%     0.00%  [.] 0xffff80008044bb0c   -      -            
+     0.02%     0.02%  [k] 0xffff8000816a0818   -      -            
+     0.02%     0.00%  [.] 0xffff80008044b8ac   -      -            
+     0.02%     0.00%  [.] 0xffff80008044b5ec   -      -            
+     0.02%     0.00%  [.] 0xffff80008044b1ac   -      -            
+     0.02%     0.00%  [.] 0xffff80008044ad28   -      -            
+     0.02%     0.00%  [.] 0xffff80008044aab4   -      -            
+     0.02%     0.00%  [.] 0xffff800080043afc   -      -            
+     0.02%     0.00%  [.] 0xffff8000804bda74   -      -            
+     0.02%     0.00%  [.] 0xffff8000804bd5f4   -      -            
+     0.02%     0.00%  [.] 0xffff80008047cb54   -      -            
+     0.02%     0.00%  [.] 0xffff80008047b22c   -      -            
+     0.02%     0.00%  [.] 0x0000fcefc1622e80   -      -            
+     0.01%     0.00%  [.] 0x0000fcefc15a84c4   -      -            
+     0.01%     0.01%  [k] 0xffff8000800233a0   -      -            
+     0.01%     0.01%  [.] checksum             -      -            
+     0.01%     0.00%  [.] 0xffff8000816dd6f4   -      -            
+     0.00%     0.00%  [k] 0xffff8000816dd374   -      -            
+     0.00%     0.00%  [.] 0x00000000000a2e80   -      -            
+     0.00%     0.00%  [k] 0xffff8000801df154   -      -            
+     0.00%     0.00%  [k] 0xffff8000800d5078   -      -            
+     0.00%     0.00%  [k] 0xffff8000800d50a0   -      -            
+     0.00%     0.00%  [k] 0xffff8000800d50dc   -      -            
+     0.00%     0.00%  [.] 0x0000000000095554   -      -            
+     0.00%     0.00%  [k] 0xffff80008044b6fc   -      -            
+     0.00%     0.00%  [.] printf               -      -            
+     0.00%     0.00%  [.] 0x0000fcefc15d9cf0   -      -            
+     0.00%     0.00%  [.] 0x0000fcefc15d0f8c   -      -            
+     0.00%     0.00%  [.] 0xffff8000800d50a4   -      -            
+     0.00%     0.00%  [.] 0x0000fcefc15d0edc   -      -            
+     0.00%     0.00%  [.] _IO_file_xsputn      -      -            
+     0.00%     0.00%  [.] 0xffff8000801dfbc0   -      -            
+     0.00%     0.00%  [.] _IO_file_overflow    -      -            
+     0.00%     0.00%  [.] 0xffff8000801dfa8c   -      -            
+     0.00%     0.00%  [.] _IO_doallocbuf       -      -            
+     0.00%     0.00%  [.] 0xffff8000801df610   -      -            
+     0.00%     0.00%  [.] _IO_file_doallocate  -      -            
+     0.00%     0.00%  [.] 0xffff8000814ca8e4   -      -            
+     0.00%     0.00%  [.] malloc               -      -            
+     0.00%     0.00%  [.] 0xffff8000801df360   -      -            
+     0.00%     0.00%  [.] 0x0000fcefc1615554   -      -            
+
+
+#
+# (Cannot load tips.txt file, please install perf!)
+#

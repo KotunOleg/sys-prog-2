@@ -1,0 +1,14 @@
+matmul_O0;_start;__libc_start_main;[libc.so.6];[libc.so.6];[libc.so.6];[ld-linux-aarch64.so.1];[ld-linux-aarch64.so.1] 250000
+matmul_O0;_start;__libc_start_main;[libc.so.6];main;cfree;__munmap 250000
+matmul_O0;_start;__libc_start_main;[libc.so.6];main;cfree;__munmap;[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown] 500000
+matmul_O0;_start;__libc_start_main;[libc.so.6];main;cfree;__munmap;[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown] 500000
+matmul_O0;_start;__libc_start_main;[libc.so.6];main;checksum 250000
+matmul_O0;_start;__libc_start_main;[libc.so.6];main;fill_matrix 1000000
+matmul_O0;_start;__libc_start_main;[libc.so.6];main;fill_matrix;[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown] 250000
+matmul_O0;_start;__libc_start_main;[libc.so.6];main;matmul_ikj 11326000000
+matmul_O0;_start;__libc_start_main;[libc.so.6];main;matmul_ikj;[libc.so.6] 750000
+matmul_O0;_start;__libc_start_main;[libc.so.6];main;matmul_ikj;[libc.so.6];[unknown];[unknown];[unknown] 250000
+matmul_O0;_start;__libc_start_main;[libc.so.6];main;matmul_ikj;[libc.so.6];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown] 1000000
+matmul_O0;_start;__libc_start_main;[libc.so.6];main;matmul_ikj;[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown] 4000000
+matmul_O0;_start;__libc_start_main;[libc.so.6];main;matmul_ikj;[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown] 500000
+matmul_O0;_start;__libc_start_main;[libc.so.6];main;printf;[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown] 250000

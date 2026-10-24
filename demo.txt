@@ -1,0 +1,29 @@
+
+perf record -g -o /tmp/demo.data -- ./bin/matmul_O3 600 30 naive
+perf script -i /tmp/demo.data | tools/FlameGraph/stackcollapse-perf.pl > /tmp/demo3.txt
+tools/FlameGraph/flamegraph.pl /tmp/demo3.txt > /tmp/demo3.svg
+scp -P 2222 sys-prog@127.0.0.1:/tmp/demo3.svg ~/Desktop/
+
+# П.2.1
+/usr/bin/time --verbose ./bin/matmul_O3 600 30 ikj
+
+# П.2.2
+perf stat -d -r 5 -- ./bin/matmul_O0 600 30 naive
+perf stat -d -r 5 -- ./bin/matmul_O3 600 30 ikj
+
+
+perf record -g -o /tmp/r.data -- ./bin/matmul_O3 600 30 ikj
+perf report -i /tmp/r.data --stdio | less
+
+
+objdump -d --disassemble=matmul_ijk bin/matmul_O3 | grep -A5 fmadd
+objdump -d --disassemble=matmul_ikj bin/matmul_O3 | grep -A5 fmla
+
+sudo scripts/06_energy_macos.sh ./bin_macos/matmul_O0 naive 700 20 demo_naive
+sudo scripts/06_energy_macos.sh ./bin_macos/matmul_O3 ikj 700 20 demo_ikj
+
+    sudo powermetrics -i 100 --samplers cpu_power,tasks --show-process-energy -o power.txt &
+    ./bin_macos/matmul_O0 700 20 naive   # workload під вимірюванням
+    kill %1
+
+grep "Combined Power" power.txt | head -5

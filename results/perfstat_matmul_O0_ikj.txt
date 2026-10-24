@@ -1,0 +1,20 @@
+# started on Sat Oct 24 16:06:30 2026
+
+
+ Performance counter stats for './bin/matmul_O0 600 30 ikj' (5 runs):
+
+         11,052.89 msec task-clock                       #    1.000 CPUs utilized               ( +-  0.41% )
+                42      context-switches                 #    3.800 /sec                        ( +- 20.63% )
+                 0      cpu-migrations                   #    0.000 /sec                      
+             1,104      page-faults                      #   99.883 /sec                        ( +-  0.02% )
+   <not supported>      cycles                                                                
+   <not supported>      instructions                                                          
+   <not supported>      branches                                                              
+   <not supported>      branch-misses                                                         
+   <not supported>      L1-dcache-loads                                                       
+   <not supported>      L1-dcache-load-misses                                                 
+   <not supported>      LLC-loads                                                             
+   <not supported>      LLC-load-misses                                                       
+
+           11.0550 +- 0.0457 seconds time elapsed  ( +-  0.41% )
+

@@ -1,0 +1,85 @@
+
+bin/matmul_O0:     file format elf64-littleaarch64
+
+
+Disassembly of section .init:
+
+Disassembly of section .plt:
+
+Disassembly of section .text:
+
+0000000000000a38 <matmul_ijk>:
+ a38:	d100c3ff 	sub	sp, sp, #0x30
+ a3c:	f9000fe0 	str	x0, [sp, #24]
+ a40:	f9000be1 	str	x1, [sp, #16]
+ a44:	f90007e2 	str	x2, [sp, #8]
+ a48:	b90007e3 	str	w3, [sp, #4]
+ a4c:	b90023ff 	str	wzr, [sp, #32]
+ a50:	1400003a 	b	b38 <matmul_ijk+0x100>
+ a54:	b90027ff 	str	wzr, [sp, #36]
+ a58:	14000031 	b	b1c <matmul_ijk+0xe4>
+ a5c:	b9002bff 	str	wzr, [sp, #40]
+ a60:	b9002fff 	str	wzr, [sp, #44]
+ a64:	1400001c 	b	ad4 <matmul_ijk+0x9c>
+ a68:	b94023e1 	ldr	w1, [sp, #32]
+ a6c:	b94007e0 	ldr	w0, [sp, #4]
+ a70:	1b007c21 	mul	w1, w1, w0
+ a74:	b9402fe0 	ldr	w0, [sp, #44]
+ a78:	0b000020 	add	w0, w1, w0
+ a7c:	93407c00 	sxtw	x0, w0
+ a80:	d37ef400 	lsl	x0, x0, #2
+ a84:	f9400fe1 	ldr	x1, [sp, #24]
+ a88:	8b000020 	add	x0, x1, x0
+ a8c:	bd400001 	ldr	s1, [x0]
+ a90:	b9402fe1 	ldr	w1, [sp, #44]
+ a94:	b94007e0 	ldr	w0, [sp, #4]
+ a98:	1b007c21 	mul	w1, w1, w0
+ a9c:	b94027e0 	ldr	w0, [sp, #36]
+ aa0:	0b000020 	add	w0, w1, w0
+ aa4:	93407c00 	sxtw	x0, w0
+ aa8:	d37ef400 	lsl	x0, x0, #2
+ aac:	f9400be1 	ldr	x1, [sp, #16]
+ ab0:	8b000020 	add	x0, x1, x0
+ ab4:	bd400000 	ldr	s0, [x0]
+ ab8:	1e200820 	fmul	s0, s1, s0
+ abc:	bd402be1 	ldr	s1, [sp, #40]
+ ac0:	1e202820 	fadd	s0, s1, s0
+ ac4:	bd002be0 	str	s0, [sp, #40]
+ ac8:	b9402fe0 	ldr	w0, [sp, #44]
+ acc:	11000400 	add	w0, w0, #0x1
+ ad0:	b9002fe0 	str	w0, [sp, #44]
+ ad4:	b9402fe1 	ldr	w1, [sp, #44]
+ ad8:	b94007e0 	ldr	w0, [sp, #4]
+ adc:	6b00003f 	cmp	w1, w0
+ ae0:	54fffc4b 	b.lt	a68 <matmul_ijk+0x30>  // b.tstop
+ ae4:	b94023e1 	ldr	w1, [sp, #32]
+ ae8:	b94007e0 	ldr	w0, [sp, #4]
+ aec:	1b007c21 	mul	w1, w1, w0
+ af0:	b94027e0 	ldr	w0, [sp, #36]
+ af4:	0b000020 	add	w0, w1, w0
+ af8:	93407c00 	sxtw	x0, w0
+ afc:	d37ef400 	lsl	x0, x0, #2
+ b00:	f94007e1 	ldr	x1, [sp, #8]
+ b04:	8b000020 	add	x0, x1, x0
+ b08:	bd402be0 	ldr	s0, [sp, #40]
+ b0c:	bd000000 	str	s0, [x0]
+ b10:	b94027e0 	ldr	w0, [sp, #36]
+ b14:	11000400 	add	w0, w0, #0x1
+ b18:	b90027e0 	str	w0, [sp, #36]
+ b1c:	b94027e1 	ldr	w1, [sp, #36]
+ b20:	b94007e0 	ldr	w0, [sp, #4]
+ b24:	6b00003f 	cmp	w1, w0
+ b28:	54fff9ab 	b.lt	a5c <matmul_ijk+0x24>  // b.tstop
+ b2c:	b94023e0 	ldr	w0, [sp, #32]
+ b30:	11000400 	add	w0, w0, #0x1
+ b34:	b90023e0 	str	w0, [sp, #32]
+ b38:	b94023e1 	ldr	w1, [sp, #32]
+ b3c:	b94007e0 	ldr	w0, [sp, #4]
+ b40:	6b00003f 	cmp	w1, w0
+ b44:	54fff88b 	b.lt	a54 <matmul_ijk+0x1c>  // b.tstop
+ b48:	d503201f 	nop
+ b4c:	d503201f 	nop
+ b50:	9100c3ff 	add	sp, sp, #0x30
+ b54:	d65f03c0 	ret
+
+Disassembly of section .fini:

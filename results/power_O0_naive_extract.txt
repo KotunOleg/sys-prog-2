@@ -1,0 +1,400 @@
+elapsed=111.73ms elapsed combined_power_mW=698
+elapsed=117.23ms elapsed combined_power_mW=358
+elapsed=118.10ms elapsed combined_power_mW=178
+elapsed=125.71ms elapsed combined_power_mW=334
+elapsed=125.44ms elapsed combined_power_mW=199
+elapsed=127.66ms elapsed combined_power_mW=454
+elapsed=118.50ms elapsed combined_power_mW=489
+elapsed=118.80ms elapsed combined_power_mW=2087
+elapsed=112.89ms elapsed combined_power_mW=868
+elapsed=114.25ms elapsed combined_power_mW=586
+elapsed=118.13ms elapsed combined_power_mW=737
+elapsed=115.58ms elapsed combined_power_mW=199
+elapsed=122.73ms elapsed combined_power_mW=676
+elapsed=119.09ms elapsed combined_power_mW=4845 process_cpu_ms_s=993.51 process_energy_impact=2990.33
+elapsed=112.58ms elapsed combined_power_mW=5765 process_cpu_ms_s=992.93 process_energy_impact=4181.64
+elapsed=111.69ms elapsed combined_power_mW=5721 process_cpu_ms_s=963.99 process_energy_impact=4300.76
+elapsed=111.15ms elapsed combined_power_mW=5335 process_cpu_ms_s=987.41 process_energy_impact=4376.17
+elapsed=111.14ms elapsed combined_power_mW=5318 process_cpu_ms_s=1029.56 process_energy_impact=4384.57
+elapsed=111.21ms elapsed combined_power_mW=5350 process_cpu_ms_s=988.95 process_energy_impact=4375.59
+elapsed=111.09ms elapsed combined_power_mW=5374 process_cpu_ms_s=970.33 process_energy_impact=4377.63
+elapsed=111.36ms elapsed combined_power_mW=5119 process_cpu_ms_s=999.29 process_energy_impact=4392.50
+elapsed=111.00ms elapsed combined_power_mW=5469 process_cpu_ms_s=1003.71 process_energy_impact=4570.70
+elapsed=111.34ms elapsed combined_power_mW=5236 process_cpu_ms_s=1033.50 process_energy_impact=4410.52
+elapsed=111.31ms elapsed combined_power_mW=5759 process_cpu_ms_s=923.94 process_energy_impact=4404.36
+elapsed=111.65ms elapsed combined_power_mW=5705 process_cpu_ms_s=1008.94 process_energy_impact=4385.90
+elapsed=111.02ms elapsed combined_power_mW=5927 process_cpu_ms_s=1014.15 process_energy_impact=4436.91
+elapsed=111.47ms elapsed combined_power_mW=5517 process_cpu_ms_s=1020.20 process_energy_impact=4495.95
+elapsed=111.66ms elapsed combined_power_mW=5221 process_cpu_ms_s=976.00 process_energy_impact=4350.06
+elapsed=111.65ms elapsed combined_power_mW=5230 process_cpu_ms_s=983.44 process_energy_impact=4388.75
+elapsed=111.58ms elapsed combined_power_mW=5288 process_cpu_ms_s=985.36 process_energy_impact=4396.02
+elapsed=110.57ms elapsed combined_power_mW=5282 process_cpu_ms_s=989.23 process_energy_impact=4427.09
+elapsed=111.44ms elapsed combined_power_mW=6649 process_cpu_ms_s=1078.30 process_energy_impact=4600.73
+elapsed=110.28ms elapsed combined_power_mW=6239 process_cpu_ms_s=926.10 process_energy_impact=4088.12
+elapsed=112.22ms elapsed combined_power_mW=9838 process_cpu_ms_s=1077.98 process_energy_impact=4388.46
+elapsed=112.33ms elapsed combined_power_mW=6062 process_cpu_ms_s=977.33 process_energy_impact=4262.43
+elapsed=111.34ms elapsed combined_power_mW=5425 process_cpu_ms_s=986.88 process_energy_impact=4398.58
+elapsed=111.22ms elapsed combined_power_mW=5287 process_cpu_ms_s=987.97 process_energy_impact=4421.54
+elapsed=111.21ms elapsed combined_power_mW=5503 process_cpu_ms_s=988.57 process_energy_impact=4392.33
+elapsed=111.29ms elapsed combined_power_mW=8374 process_cpu_ms_s=1013.47 process_energy_impact=3679.80
+elapsed=111.27ms elapsed combined_power_mW=5302 process_cpu_ms_s=987.25 process_energy_impact=4419.93
+elapsed=111.23ms elapsed combined_power_mW=5251 process_cpu_ms_s=998.82 process_energy_impact=4420.99
+elapsed=111.12ms elapsed combined_power_mW=5499 process_cpu_ms_s=1027.10 process_energy_impact=4802.81
+elapsed=111.62ms elapsed combined_power_mW=5286 process_cpu_ms_s=984.82 process_energy_impact=4378.14
+elapsed=110.84ms elapsed combined_power_mW=6839 process_cpu_ms_s=979.38 process_energy_impact=4734.60
+elapsed=112.79ms elapsed combined_power_mW=9398 process_cpu_ms_s=993.04 process_energy_impact=5165.19
+elapsed=111.53ms elapsed combined_power_mW=6321 process_cpu_ms_s=999.87 process_energy_impact=4088.14
+elapsed=111.13ms elapsed combined_power_mW=5723 process_cpu_ms_s=1034.65 process_energy_impact=4356.66
+elapsed=111.22ms elapsed combined_power_mW=5341 process_cpu_ms_s=916.86 process_energy_impact=4310.90
+elapsed=110.40ms elapsed combined_power_mW=5272 process_cpu_ms_s=1071.68 process_energy_impact=4611.50
+elapsed=111.23ms elapsed combined_power_mW=5322 process_cpu_ms_s=948.71 process_energy_impact=4422.86
+elapsed=110.93ms elapsed combined_power_mW=5580 process_cpu_ms_s=1020.44 process_energy_impact=4546.58
+elapsed=111.41ms elapsed combined_power_mW=5358 process_cpu_ms_s=987.83 process_energy_impact=4358.54
+elapsed=111.64ms elapsed combined_power_mW=5392 process_cpu_ms_s=1010.23 process_energy_impact=4494.25
+elapsed=111.00ms elapsed combined_power_mW=5333 process_cpu_ms_s=991.22 process_energy_impact=4433.70
+elapsed=111.03ms elapsed combined_power_mW=5467 process_cpu_ms_s=998.87 process_energy_impact=4390.58
+elapsed=110.66ms elapsed combined_power_mW=8413 process_cpu_ms_s=893.37 process_energy_impact=3536.89
+elapsed=112.53ms elapsed combined_power_mW=10424 process_cpu_ms_s=964.09 process_energy_impact=3186.31
+elapsed=112.37ms elapsed combined_power_mW=10332 process_cpu_ms_s=1012.90 process_energy_impact=3417.50
+elapsed=112.21ms elapsed combined_power_mW=11362 process_cpu_ms_s=917.30 process_energy_impact=2895.88
+elapsed=112.27ms elapsed combined_power_mW=8453 process_cpu_ms_s=1005.72 process_energy_impact=3897.22
+elapsed=111.62ms elapsed combined_power_mW=11244 process_cpu_ms_s=955.89 process_energy_impact=3599.68
+elapsed=111.59ms elapsed combined_power_mW=10091 process_cpu_ms_s=1030.94 process_energy_impact=3781.44
+elapsed=112.11ms elapsed combined_power_mW=12452 process_cpu_ms_s=1014.26 process_energy_impact=3482.91
+elapsed=111.69ms elapsed combined_power_mW=9078 process_cpu_ms_s=923.42 process_energy_impact=3771.84
+elapsed=110.85ms elapsed combined_power_mW=9616 process_cpu_ms_s=1045.96 process_energy_impact=4164.15
+elapsed=111.61ms elapsed combined_power_mW=7329 process_cpu_ms_s=993.59 process_energy_impact=4051.21
+elapsed=110.97ms elapsed combined_power_mW=5452 process_cpu_ms_s=982.02 process_energy_impact=4440.57
+elapsed=110.93ms elapsed combined_power_mW=6671 process_cpu_ms_s=991.07 process_energy_impact=4396.19
+elapsed=111.49ms elapsed combined_power_mW=8700 process_cpu_ms_s=1040.62 process_energy_impact=3888.26
+elapsed=112.12ms elapsed combined_power_mW=9552 process_cpu_ms_s=1000.72 process_energy_impact=4075.52
+elapsed=111.61ms elapsed combined_power_mW=9301 process_cpu_ms_s=973.51 process_energy_impact=4062.97
+elapsed=111.40ms elapsed combined_power_mW=14704 process_cpu_ms_s=1035.02 process_energy_impact=3592.27
+elapsed=111.80ms elapsed combined_power_mW=12031 process_cpu_ms_s=965.12 process_energy_impact=3116.52
+elapsed=110.26ms elapsed combined_power_mW=5877 process_cpu_ms_s=946.78 process_energy_impact=4232.65
+elapsed=111.02ms elapsed combined_power_mW=5648 process_cpu_ms_s=1079.99 process_energy_impact=4806.71
+elapsed=111.54ms elapsed combined_power_mW=6312 process_cpu_ms_s=982.94 process_energy_impact=4276.27
+elapsed=110.86ms elapsed combined_power_mW=7559 process_cpu_ms_s=984.84 process_energy_impact=4080.79
+elapsed=111.37ms elapsed combined_power_mW=6106 process_cpu_ms_s=1031.66 process_energy_impact=4609.34
+elapsed=111.43ms elapsed combined_power_mW=7368 process_cpu_ms_s=998.13 process_energy_impact=4236.21
+elapsed=111.02ms elapsed combined_power_mW=5549 process_cpu_ms_s=990.95 process_energy_impact=4393.47
+elapsed=111.27ms elapsed combined_power_mW=8340 process_cpu_ms_s=1003.87 process_energy_impact=4067.34
+elapsed=112.11ms elapsed combined_power_mW=8599 process_cpu_ms_s=961.98 process_energy_impact=3731.56
+elapsed=110.95ms elapsed combined_power_mW=5606 process_cpu_ms_s=1009.31 process_energy_impact=4340.60
+elapsed=111.01ms elapsed combined_power_mW=6450 process_cpu_ms_s=1034.19 process_energy_impact=4176.61
+elapsed=112.14ms elapsed combined_power_mW=9158 process_cpu_ms_s=986.60 process_energy_impact=4092.52
+elapsed=114.76ms elapsed combined_power_mW=6109 process_cpu_ms_s=967.64 process_energy_impact=3806.59
+elapsed=111.03ms elapsed combined_power_mW=5737 process_cpu_ms_s=998.41 process_energy_impact=4385.96
+elapsed=111.69ms elapsed combined_power_mW=5838 process_cpu_ms_s=976.43 process_energy_impact=4312.80
+elapsed=111.10ms elapsed combined_power_mW=5464 process_cpu_ms_s=1003.23 process_energy_impact=4422.61
+elapsed=111.33ms elapsed combined_power_mW=5470 process_cpu_ms_s=973.49 process_energy_impact=4434.65
+elapsed=111.11ms elapsed combined_power_mW=5337 process_cpu_ms_s=989.90 process_energy_impact=4432.08
+elapsed=110.85ms elapsed combined_power_mW=5945 process_cpu_ms_s=992.17 process_energy_impact=4434.11
+elapsed=110.86ms elapsed combined_power_mW=6017 process_cpu_ms_s=1081.96 process_energy_impact=4778.69
+elapsed=111.19ms elapsed combined_power_mW=5378 process_cpu_ms_s=989.41 process_energy_impact=4413.33
+elapsed=111.01ms elapsed combined_power_mW=5333 process_cpu_ms_s=924.16 process_energy_impact=4131.05
+elapsed=110.96ms elapsed combined_power_mW=5687 process_cpu_ms_s=1080.71 process_energy_impact=4767.80
+elapsed=111.32ms elapsed combined_power_mW=5336 process_cpu_ms_s=959.49 process_energy_impact=4287.27
+elapsed=110.87ms elapsed combined_power_mW=6061 process_cpu_ms_s=1047.08 process_energy_impact=4465.56
+elapsed=111.14ms elapsed combined_power_mW=5587 process_cpu_ms_s=947.04 process_energy_impact=4426.12
+elapsed=111.01ms elapsed combined_power_mW=7000 process_cpu_ms_s=990.57 process_energy_impact=4278.43
+elapsed=111.53ms elapsed combined_power_mW=5505 process_cpu_ms_s=988.35 process_energy_impact=4320.69
+elapsed=111.59ms elapsed combined_power_mW=5431 process_cpu_ms_s=983.67 process_energy_impact=4376.35
+elapsed=111.04ms elapsed combined_power_mW=5629 process_cpu_ms_s=1080.28 process_energy_impact=4826.96
+elapsed=111.04ms elapsed combined_power_mW=5611 process_cpu_ms_s=990.55 process_energy_impact=4414.79
+elapsed=111.00ms elapsed combined_power_mW=5685 process_cpu_ms_s=1015.77 process_energy_impact=4413.53
+elapsed=111.22ms elapsed combined_power_mW=6132 process_cpu_ms_s=999.40 process_energy_impact=4502.59
+elapsed=112.12ms elapsed combined_power_mW=5619 process_cpu_ms_s=992.88 process_energy_impact=4159.38
+elapsed=111.41ms elapsed combined_power_mW=5403 process_cpu_ms_s=945.98 process_energy_impact=4384.07
+elapsed=110.94ms elapsed combined_power_mW=5589 process_cpu_ms_s=1053.16 process_energy_impact=4421.04
+elapsed=111.31ms elapsed combined_power_mW=6082 process_cpu_ms_s=975.52 process_energy_impact=4600.42
+elapsed=111.40ms elapsed combined_power_mW=5395 process_cpu_ms_s=988.44 process_energy_impact=4367.81
+elapsed=111.30ms elapsed combined_power_mW=5220 process_cpu_ms_s=987.68 process_energy_impact=4397.38
+elapsed=111.53ms elapsed combined_power_mW=5415 process_cpu_ms_s=1028.66 process_energy_impact=4377.75
+elapsed=110.94ms elapsed combined_power_mW=6346 process_cpu_ms_s=983.47 process_energy_impact=4822.89
+elapsed=111.16ms elapsed combined_power_mW=7224 process_cpu_ms_s=989.59 process_energy_impact=6271.94
+elapsed=111.24ms elapsed combined_power_mW=7084 process_cpu_ms_s=1042.00 process_energy_impact=6466.92
+elapsed=111.38ms elapsed combined_power_mW=5153 process_cpu_ms_s=975.02 process_energy_impact=4429.49
+elapsed=111.15ms elapsed combined_power_mW=5155 process_cpu_ms_s=988.29 process_energy_impact=4416.65
+elapsed=111.32ms elapsed combined_power_mW=6010 process_cpu_ms_s=1032.44 process_energy_impact=4361.87
+elapsed=111.45ms elapsed combined_power_mW=5285 process_cpu_ms_s=940.10 process_energy_impact=4366.29
+elapsed=110.82ms elapsed combined_power_mW=5189 process_cpu_ms_s=1049.68 process_energy_impact=4420.60
+elapsed=111.50ms elapsed combined_power_mW=7067 process_cpu_ms_s=966.31 process_energy_impact=4367.15
+elapsed=111.43ms elapsed combined_power_mW=5564 process_cpu_ms_s=1028.50 process_energy_impact=4405.45
+elapsed=111.57ms elapsed combined_power_mW=5423 process_cpu_ms_s=1013.93 process_energy_impact=4366.62
+elapsed=111.30ms elapsed combined_power_mW=5112 process_cpu_ms_s=924.11 process_energy_impact=4415.13
+elapsed=111.77ms elapsed combined_power_mW=5207 process_cpu_ms_s=1071.38 process_energy_impact=4780.02
+elapsed=111.09ms elapsed combined_power_mW=6148 process_cpu_ms_s=998.52 process_energy_impact=4335.85
+elapsed=112.15ms elapsed combined_power_mW=8515 process_cpu_ms_s=958.55 process_energy_impact=3726.22
+elapsed=111.60ms elapsed combined_power_mW=6192 process_cpu_ms_s=1000.45 process_energy_impact=4189.69
+elapsed=111.97ms elapsed combined_power_mW=19210 process_cpu_ms_s=954.98 process_energy_impact=2650.64
+elapsed=114.99ms elapsed combined_power_mW=18818 process_cpu_ms_s=817.28 process_energy_impact=1118.81
+elapsed=114.17ms elapsed combined_power_mW=17693 process_cpu_ms_s=876.49 process_energy_impact=1915.62
+elapsed=112.63ms elapsed combined_power_mW=18867 process_cpu_ms_s=815.70 process_energy_impact=1596.32
+elapsed=114.42ms elapsed combined_power_mW=18868 process_cpu_ms_s=784.06 process_energy_impact=1851.03
+elapsed=113.94ms elapsed combined_power_mW=15684 process_cpu_ms_s=923.10 process_energy_impact=2882.72
+elapsed=112.07ms elapsed combined_power_mW=15222 process_cpu_ms_s=968.22 process_energy_impact=3160.72
+elapsed=114.04ms elapsed combined_power_mW=12925 process_cpu_ms_s=969.98 process_energy_impact=3132.92
+elapsed=112.43ms elapsed combined_power_mW=11589 process_cpu_ms_s=968.28 process_energy_impact=3183.20
+elapsed=112.31ms elapsed combined_power_mW=11076 process_cpu_ms_s=970.77 process_energy_impact=3194.51
+elapsed=112.27ms elapsed combined_power_mW=11285 process_cpu_ms_s=973.44 process_energy_impact=3183.53
+elapsed=111.15ms elapsed combined_power_mW=11561 process_cpu_ms_s=971.01 process_energy_impact=3182.89
+elapsed=112.22ms elapsed combined_power_mW=11531 process_cpu_ms_s=964.62 process_energy_impact=3150.88
+elapsed=112.26ms elapsed combined_power_mW=11464 process_cpu_ms_s=985.29 process_energy_impact=3244.62
+elapsed=112.40ms elapsed combined_power_mW=14377 process_cpu_ms_s=952.40 process_energy_impact=3060.87
+elapsed=112.83ms elapsed combined_power_mW=10476 process_cpu_ms_s=977.51 process_energy_impact=3280.40
+elapsed=112.07ms elapsed combined_power_mW=10565 process_cpu_ms_s=976.24 process_energy_impact=3211.67
+elapsed=112.74ms elapsed combined_power_mW=10324 process_cpu_ms_s=968.76 process_energy_impact=3193.35
+elapsed=112.28ms elapsed combined_power_mW=10322 process_cpu_ms_s=997.85 process_energy_impact=3207.07
+elapsed=112.13ms elapsed combined_power_mW=9819 process_cpu_ms_s=973.64 process_energy_impact=3278.48
+elapsed=111.66ms elapsed combined_power_mW=9968 process_cpu_ms_s=1002.16 process_energy_impact=3317.99
+elapsed=112.24ms elapsed combined_power_mW=9711 process_cpu_ms_s=993.03 process_energy_impact=3309.63
+elapsed=111.00ms elapsed combined_power_mW=7937 process_cpu_ms_s=965.72 process_energy_impact=3196.74
+elapsed=112.05ms elapsed combined_power_mW=8300 process_cpu_ms_s=1019.82 process_energy_impact=3269.08
+elapsed=112.08ms elapsed combined_power_mW=7637 process_cpu_ms_s=995.52 process_energy_impact=3381.58
+elapsed=110.84ms elapsed combined_power_mW=8670 process_cpu_ms_s=1008.69 process_energy_impact=3328.40
+elapsed=112.14ms elapsed combined_power_mW=8418 process_cpu_ms_s=1000.31 process_energy_impact=3055.45
+elapsed=111.39ms elapsed combined_power_mW=7909 process_cpu_ms_s=1000.98 process_energy_impact=3544.97
+elapsed=111.72ms elapsed combined_power_mW=7572 process_cpu_ms_s=1000.61 process_energy_impact=3064.32
+elapsed=111.87ms elapsed combined_power_mW=6776 process_cpu_ms_s=936.05 process_energy_impact=3881.28
+elapsed=111.14ms elapsed combined_power_mW=5362 process_cpu_ms_s=1053.69 process_energy_impact=4658.96
+elapsed=111.44ms elapsed combined_power_mW=5142 process_cpu_ms_s=972.46 process_energy_impact=4406.48
+elapsed=111.32ms elapsed combined_power_mW=5381 process_cpu_ms_s=964.40 process_energy_impact=4242.06
+elapsed=111.37ms elapsed combined_power_mW=4975 process_cpu_ms_s=988.07 process_energy_impact=4220.98
+elapsed=110.79ms elapsed combined_power_mW=5280 process_cpu_ms_s=1037.55 process_energy_impact=4246.30
+elapsed=110.95ms elapsed combined_power_mW=5228 process_cpu_ms_s=1037.01 process_energy_impact=4661.60
+elapsed=111.03ms elapsed combined_power_mW=5053 process_cpu_ms_s=989.91 process_energy_impact=4272.70
+elapsed=111.49ms elapsed combined_power_mW=6844 process_cpu_ms_s=992.57 process_energy_impact=4309.28
+elapsed=111.31ms elapsed combined_power_mW=5543 process_cpu_ms_s=987.16 process_energy_impact=4370.23
+elapsed=111.48ms elapsed combined_power_mW=5543 process_cpu_ms_s=986.74 process_energy_impact=4380.52
+elapsed=111.03ms elapsed combined_power_mW=5476 process_cpu_ms_s=974.48 process_energy_impact=4357.27
+elapsed=111.30ms elapsed combined_power_mW=5139 process_cpu_ms_s=988.01 process_energy_impact=4388.66
+elapsed=111.50ms elapsed combined_power_mW=5462 process_cpu_ms_s=1070.97 process_energy_impact=4664.88
+elapsed=111.44ms elapsed combined_power_mW=6999 process_cpu_ms_s=986.97 process_energy_impact=6112.44
+elapsed=111.08ms elapsed combined_power_mW=8030 process_cpu_ms_s=989.70 process_energy_impact=5952.78
+elapsed=111.28ms elapsed combined_power_mW=5886 process_cpu_ms_s=953.46 process_energy_impact=4277.38
+elapsed=113.23ms elapsed combined_power_mW=8522 process_cpu_ms_s=996.23 process_energy_impact=3751.94
+elapsed=113.11ms elapsed combined_power_mW=5623 process_cpu_ms_s=1058.75 process_energy_impact=4713.92
+elapsed=112.82ms elapsed combined_power_mW=5478 process_cpu_ms_s=973.70 process_energy_impact=4350.84
+elapsed=113.91ms elapsed combined_power_mW=5206 process_cpu_ms_s=969.96 process_energy_impact=4320.12
+elapsed=113.39ms elapsed combined_power_mW=5636 process_cpu_ms_s=1038.33 process_energy_impact=4302.66
+elapsed=113.58ms elapsed combined_power_mW=5238 process_cpu_ms_s=987.19 process_energy_impact=4725.34
+elapsed=113.37ms elapsed combined_power_mW=5381 process_cpu_ms_s=1024.00 process_energy_impact=4519.75
+elapsed=113.22ms elapsed combined_power_mW=5476 process_cpu_ms_s=969.74 process_energy_impact=4320.54
+elapsed=113.26ms elapsed combined_power_mW=5244 process_cpu_ms_s=971.20 process_energy_impact=4356.10
+elapsed=112.99ms elapsed combined_power_mW=5593 process_cpu_ms_s=1052.63 process_energy_impact=4406.25
+elapsed=112.94ms elapsed combined_power_mW=6650 process_cpu_ms_s=979.78 process_energy_impact=4225.49
+elapsed=113.34ms elapsed combined_power_mW=5276 process_cpu_ms_s=995.60 process_energy_impact=4730.78
+elapsed=113.13ms elapsed combined_power_mW=5348 process_cpu_ms_s=1000.48 process_energy_impact=4449.98
+elapsed=112.95ms elapsed combined_power_mW=5303 process_cpu_ms_s=972.97 process_energy_impact=4370.70
+elapsed=113.20ms elapsed combined_power_mW=5733 process_cpu_ms_s=1043.91 process_energy_impact=4265.90
+elapsed=113.60ms elapsed combined_power_mW=5520 process_cpu_ms_s=1000.58 process_energy_impact=4658.78
+elapsed=112.65ms elapsed combined_power_mW=6045 process_cpu_ms_s=951.94 process_energy_impact=4311.64
+elapsed=113.39ms elapsed combined_power_mW=5336 process_cpu_ms_s=1038.74 process_energy_impact=4342.69
+elapsed=112.97ms elapsed combined_power_mW=5559 process_cpu_ms_s=992.23 process_energy_impact=4747.37
+elapsed=112.93ms elapsed combined_power_mW=5729 process_cpu_ms_s=934.81 process_energy_impact=4091.59
+elapsed=113.31ms elapsed combined_power_mW=5489 process_cpu_ms_s=1059.90 process_energy_impact=4639.41
+elapsed=113.24ms elapsed combined_power_mW=5246 process_cpu_ms_s=955.41 process_energy_impact=4194.77
+elapsed=113.21ms elapsed combined_power_mW=5397 process_cpu_ms_s=1059.63 process_energy_impact=4745.92
+elapsed=112.85ms elapsed combined_power_mW=3075
+elapsed=114.67ms elapsed combined_power_mW=419
+elapsed=118.01ms elapsed combined_power_mW=356
+elapsed=122.43ms elapsed combined_power_mW=310
+elapsed=123.73ms elapsed combined_power_mW=606
+elapsed=120.49ms elapsed combined_power_mW=407
+elapsed=123.57ms elapsed combined_power_mW=388
+elapsed=126.39ms elapsed combined_power_mW=419
+elapsed=123.63ms elapsed combined_power_mW=785
+elapsed=123.19ms elapsed combined_power_mW=787
+elapsed=123.18ms elapsed combined_power_mW=609
+elapsed=126.83ms elapsed combined_power_mW=2499
+elapsed=117.29ms elapsed combined_power_mW=1057
+elapsed=119.72ms elapsed combined_power_mW=652
+elapsed=124.09ms elapsed combined_power_mW=693
+elapsed=124.96ms elapsed combined_power_mW=3721
+elapsed=118.17ms elapsed combined_power_mW=3630
+elapsed=123.80ms elapsed combined_power_mW=977
+elapsed=120.28ms elapsed combined_power_mW=457
+elapsed=126.24ms elapsed combined_power_mW=483
+elapsed=130.46ms elapsed combined_power_mW=1625
+elapsed=123.63ms elapsed combined_power_mW=1472
+elapsed=120.32ms elapsed combined_power_mW=474
+elapsed=122.26ms elapsed combined_power_mW=605
+elapsed=123.68ms elapsed combined_power_mW=631
+elapsed=125.01ms elapsed combined_power_mW=376
+elapsed=122.87ms elapsed combined_power_mW=553
+elapsed=124.48ms elapsed combined_power_mW=659
+elapsed=125.06ms elapsed combined_power_mW=1159
+elapsed=124.91ms elapsed combined_power_mW=528
+elapsed=123.91ms elapsed combined_power_mW=331
+elapsed=129.48ms elapsed combined_power_mW=417
+elapsed=123.27ms elapsed combined_power_mW=519
+elapsed=122.69ms elapsed combined_power_mW=359
+elapsed=125.32ms elapsed combined_power_mW=902
+elapsed=125.40ms elapsed combined_power_mW=383
+elapsed=127.50ms elapsed combined_power_mW=502
+elapsed=128.73ms elapsed combined_power_mW=505
+elapsed=123.91ms elapsed combined_power_mW=395
+elapsed=122.44ms elapsed combined_power_mW=457
+elapsed=121.21ms elapsed combined_power_mW=528
+elapsed=129.32ms elapsed combined_power_mW=657
+elapsed=125.17ms elapsed combined_power_mW=376
+elapsed=125.90ms elapsed combined_power_mW=365
+elapsed=127.09ms elapsed combined_power_mW=976
+elapsed=122.18ms elapsed combined_power_mW=818
+elapsed=125.38ms elapsed combined_power_mW=479
+elapsed=123.84ms elapsed combined_power_mW=549
+elapsed=123.15ms elapsed combined_power_mW=187
+elapsed=133.80ms elapsed combined_power_mW=306
+elapsed=126.51ms elapsed combined_power_mW=269
+elapsed=128.60ms elapsed combined_power_mW=1050
+elapsed=116.86ms elapsed combined_power_mW=1266
+elapsed=116.52ms elapsed combined_power_mW=4875
+elapsed=114.01ms elapsed combined_power_mW=456
+elapsed=119.58ms elapsed combined_power_mW=493
+elapsed=122.82ms elapsed combined_power_mW=505
+elapsed=122.27ms elapsed combined_power_mW=294
+elapsed=130.20ms elapsed combined_power_mW=576
+elapsed=123.83ms elapsed combined_power_mW=307
+elapsed=122.78ms elapsed combined_power_mW=358
+elapsed=123.36ms elapsed combined_power_mW=1005
+elapsed=118.59ms elapsed combined_power_mW=2808
+elapsed=116.80ms elapsed combined_power_mW=471
+elapsed=121.67ms elapsed combined_power_mW=362
+elapsed=126.82ms elapsed combined_power_mW=410
+elapsed=122.98ms elapsed combined_power_mW=626
+elapsed=118.94ms elapsed combined_power_mW=731
+elapsed=119.64ms elapsed combined_power_mW=276
+elapsed=126.26ms elapsed combined_power_mW=388
+elapsed=121.42ms elapsed combined_power_mW=305
+elapsed=127.15ms elapsed combined_power_mW=291
+elapsed=127.45ms elapsed combined_power_mW=275
+elapsed=128.61ms elapsed combined_power_mW=358
+elapsed=128.20ms elapsed combined_power_mW=320
+elapsed=128.10ms elapsed combined_power_mW=226
+elapsed=134.33ms elapsed combined_power_mW=402
+elapsed=129.53ms elapsed combined_power_mW=1158
+elapsed=120.90ms elapsed combined_power_mW=835
+elapsed=122.71ms elapsed combined_power_mW=2314
+elapsed=115.65ms elapsed combined_power_mW=4427
+elapsed=129.49ms elapsed combined_power_mW=664
+elapsed=127.65ms elapsed combined_power_mW=298
+elapsed=128.94ms elapsed combined_power_mW=365
+elapsed=125.93ms elapsed combined_power_mW=294
+elapsed=126.93ms elapsed combined_power_mW=2718
+elapsed=114.01ms elapsed combined_power_mW=947
+elapsed=116.78ms elapsed combined_power_mW=411
+elapsed=121.14ms elapsed combined_power_mW=330
+elapsed=126.18ms elapsed combined_power_mW=634
+elapsed=128.32ms elapsed combined_power_mW=397
+elapsed=124.67ms elapsed combined_power_mW=321
+elapsed=128.35ms elapsed combined_power_mW=1457
+elapsed=116.63ms elapsed combined_power_mW=446
+elapsed=121.31ms elapsed combined_power_mW=412
+elapsed=127.58ms elapsed combined_power_mW=917
+elapsed=120.57ms elapsed combined_power_mW=1095
+elapsed=120.68ms elapsed combined_power_mW=381
+elapsed=124.32ms elapsed combined_power_mW=467
+elapsed=125.33ms elapsed combined_power_mW=391
+elapsed=122.47ms elapsed combined_power_mW=5005
+elapsed=118.68ms elapsed combined_power_mW=918
+elapsed=117.79ms elapsed combined_power_mW=552
+elapsed=125.93ms elapsed combined_power_mW=270
+elapsed=132.32ms elapsed combined_power_mW=1126
+elapsed=134.72ms elapsed combined_power_mW=1002
+elapsed=134.96ms elapsed combined_power_mW=259
+elapsed=131.48ms elapsed combined_power_mW=243
+elapsed=128.27ms elapsed combined_power_mW=327
+elapsed=133.75ms elapsed combined_power_mW=224
+elapsed=135.03ms elapsed combined_power_mW=829
+elapsed=131.08ms elapsed combined_power_mW=847
+elapsed=129.85ms elapsed combined_power_mW=277
+elapsed=127.78ms elapsed combined_power_mW=563
+elapsed=130.85ms elapsed combined_power_mW=329
+elapsed=126.10ms elapsed combined_power_mW=975
+elapsed=125.19ms elapsed combined_power_mW=1302
+elapsed=127.96ms elapsed combined_power_mW=156
+elapsed=135.04ms elapsed combined_power_mW=400
+elapsed=128.67ms elapsed combined_power_mW=365
+elapsed=129.85ms elapsed combined_power_mW=177
+elapsed=130.91ms elapsed combined_power_mW=168
+elapsed=133.65ms elapsed combined_power_mW=187
+elapsed=128.04ms elapsed combined_power_mW=148
+elapsed=134.14ms elapsed combined_power_mW=186
+elapsed=129.01ms elapsed combined_power_mW=326
+elapsed=132.47ms elapsed combined_power_mW=159
+elapsed=135.53ms elapsed combined_power_mW=598
+elapsed=129.30ms elapsed combined_power_mW=193
+elapsed=126.61ms elapsed combined_power_mW=213
+elapsed=125.61ms elapsed combined_power_mW=167
+elapsed=133.83ms elapsed combined_power_mW=1001
+elapsed=116.62ms elapsed combined_power_mW=866
+elapsed=118.57ms elapsed combined_power_mW=498
+elapsed=121.21ms elapsed combined_power_mW=256
+elapsed=121.51ms elapsed combined_power_mW=387
+elapsed=129.16ms elapsed combined_power_mW=1154
+elapsed=132.65ms elapsed combined_power_mW=271
+elapsed=135.12ms elapsed combined_power_mW=429
+elapsed=132.01ms elapsed combined_power_mW=773
+elapsed=134.18ms elapsed combined_power_mW=224
+elapsed=133.00ms elapsed combined_power_mW=1534
+elapsed=129.05ms elapsed combined_power_mW=3394
+elapsed=125.75ms elapsed combined_power_mW=3340
+elapsed=128.36ms elapsed combined_power_mW=405
+elapsed=134.25ms elapsed combined_power_mW=156
+elapsed=131.41ms elapsed combined_power_mW=137
+elapsed=134.15ms elapsed combined_power_mW=179
+elapsed=130.20ms elapsed combined_power_mW=207
+elapsed=134.62ms elapsed combined_power_mW=141
+elapsed=133.32ms elapsed combined_power_mW=143
+elapsed=134.95ms elapsed combined_power_mW=193
+elapsed=132.62ms elapsed combined_power_mW=173
+elapsed=133.31ms elapsed combined_power_mW=150
+elapsed=133.37ms elapsed combined_power_mW=165
+elapsed=135.93ms elapsed combined_power_mW=147
+elapsed=134.15ms elapsed combined_power_mW=149
+elapsed=131.87ms elapsed combined_power_mW=220
+elapsed=131.81ms elapsed combined_power_mW=243
+elapsed=132.57ms elapsed combined_power_mW=679
+elapsed=131.49ms elapsed combined_power_mW=456
+elapsed=132.46ms elapsed combined_power_mW=347
+elapsed=127.45ms elapsed combined_power_mW=330
+elapsed=131.30ms elapsed combined_power_mW=343
+elapsed=133.50ms elapsed combined_power_mW=240
+elapsed=130.51ms elapsed combined_power_mW=176
+elapsed=133.44ms elapsed combined_power_mW=202
+elapsed=135.71ms elapsed combined_power_mW=228
+elapsed=135.24ms elapsed combined_power_mW=222
+elapsed=130.47ms elapsed combined_power_mW=261
+elapsed=133.45ms elapsed combined_power_mW=390
+elapsed=126.47ms elapsed combined_power_mW=996
+elapsed=132.01ms elapsed combined_power_mW=220
+elapsed=135.48ms elapsed combined_power_mW=221
+elapsed=130.92ms elapsed combined_power_mW=298
+elapsed=127.65ms elapsed combined_power_mW=697
+elapsed=132.54ms elapsed combined_power_mW=558
+elapsed=134.48ms elapsed combined_power_mW=245
+elapsed=133.39ms elapsed combined_power_mW=262
+elapsed=133.19ms elapsed combined_power_mW=225
+elapsed=132.76ms elapsed combined_power_mW=218
+elapsed=128.46ms elapsed combined_power_mW=732
+elapsed=135.53ms elapsed combined_power_mW=236
+elapsed=134.49ms elapsed combined_power_mW=141
+elapsed=133.71ms elapsed combined_power_mW=179
+elapsed=128.32ms elapsed combined_power_mW=1824
+elapsed=117.13ms elapsed combined_power_mW=905
+elapsed=132.05ms elapsed combined_power_mW=151
+elapsed=135.22ms elapsed combined_power_mW=444
+elapsed=135.73ms elapsed combined_power_mW=6203
+elapsed=126.51ms elapsed combined_power_mW=8023
+elapsed=124.80ms elapsed combined_power_mW=4976
+elapsed=125.67ms elapsed combined_power_mW=3867
+elapsed=124.91ms elapsed combined_power_mW=1041
+elapsed=130.95ms elapsed combined_power_mW=305
+elapsed=134.43ms elapsed combined_power_mW=164
+elapsed=132.29ms elapsed combined_power_mW=189
+elapsed=133.26ms elapsed combined_power_mW=323
+elapsed=134.93ms elapsed combined_power_mW=296
+elapsed=135.11ms elapsed combined_power_mW=592
+elapsed=127.43ms elapsed combined_power_mW=3822
+elapsed=124.24ms elapsed combined_power_mW=1996

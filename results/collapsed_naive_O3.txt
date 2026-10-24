@@ -1,0 +1,8 @@
+matmul_O3;_start;__libc_start_main;[libc.so.6];main 1250000
+matmul_O3;_start;__libc_start_main;[libc.so.6];main;[unknown];[unknown];[unknown];[unknown];[unknown] 250000
+matmul_O3;_start;__libc_start_main;[libc.so.6];main;[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown] 250000
+matmul_O3;_start;__libc_start_main;[libc.so.6];main;cfree;__munmap;[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown] 250000
+matmul_O3;_start;__libc_start_main;[libc.so.6];main;matmul_ijk 5377250000
+matmul_O3;_start;__libc_start_main;[libc.so.6];main;matmul_ijk;[unknown];[unknown];[unknown] 500000
+matmul_O3;_start;__libc_start_main;[libc.so.6];main;matmul_ijk;[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown] 750000
+matmul_O3;_start;__libc_start_main;[libc.so.6];main;matmul_ijk;[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown];[unknown] 250000

@@ -1,0 +1,29 @@
+Energy measurement methodology:
+- Host: Apple Silicon Mac (native arm64 build, bin_macos/), not the VM (VirtualBox has no RAPL/energy counters)
+- Tool: sudo powermetrics -i 100 --samplers cpu_power,tasks --show-process-energy
+- Workload: identical for all 4 variants: N=700, REPEAT=20 (same total amount of work)
+- Power averaged ONLY over samples where the matmul process was present in the process
+  table (active samples), to avoid dilution by idle padding (2s sleep before/after the run)
+- Energy (J) = avg_active_power(W) * wall_clock_time(s)
+
+Results (N=700, REPEAT=20, identical workload across all variants):
+
+variant     wall_time_s   avg_active_power_W   n_active_samples   energy_J   speedup_vs_O0naive   energy_reduction_vs_O0naive
+O0_naive    17.72         7.205                185                127.673   1.00x                 1.00x
+O0_ikj       8.95         7.296                 80                 65.300   1.98x                 1.96x
+O3_naive     5.66         4.490                 51                 25.415   3.13x                 5.02x
+O3_ikj       0.48         7.016                  4                  3.368  36.92x                37.91x
+
+Key finding: energy savings (~38x) closely tracks the time speedup (~37x), not a
+reduction in instantaneous power draw (avg_active_power_W stays in a narrow
+4.5-7.3 W band across all variants -- the CPU core runs near its performance
+state regardless of algorithm). This means SIMD/cache optimizations here save
+energy primarily by finishing the same work faster, not by drawing less power
+while running.
+
+Caveat: O3_ikj run (0.48s) only yielded 4 active power samples at 100ms
+sampling interval -- high measurement uncertainty for that one data point.
+For a production-grade measurement, REPEAT should be scaled up so even the
+fastest variant runs for several seconds, trading off "identical workload
+size" for "identical measurement duration". Both approaches are documented
+here.

@@ -1,0 +1,47 @@
+
+bin/matmul_O3:     file format elf64-littleaarch64
+
+
+Disassembly of section .init:
+
+Disassembly of section .plt:
+
+Disassembly of section .text:
+
+0000000000000be0 <matmul_ijk>:
+ be0:	2a0303ea 	mov	w10, w3
+ be4:	aa0103eb 	mov	x11, x1
+ be8:	aa0203e7 	mov	x7, x2
+ bec:	7100007f 	cmp	w3, #0x0
+ bf0:	540003ad 	b.le	c64 <matmul_ijk+0x84>
+ bf4:	937e7c62 	sbfiz	x2, x3, #2, #32
+ bf8:	aa0003e6 	mov	x6, x0
+ bfc:	8b020003 	add	x3, x0, x2
+ c00:	93407d48 	sxtw	x8, w10
+ c04:	52800009 	mov	w9, #0x0                   	// #0
+ c08:	aa0b03e5 	mov	x5, x11
+ c0c:	d2800004 	mov	x4, #0x0                   	// #0
+ c10:	0f000400 	movi	v0.2s, #0x0
+ c14:	aa0503e1 	mov	x1, x5
+ c18:	aa0603e0 	mov	x0, x6
+ c1c:	d503201f 	nop
+ c20:	bd400021 	ldr	s1, [x1]
+ c24:	8b020021 	add	x1, x1, x2
+ c28:	bc404402 	ldr	s2, [x0], #4
+ c2c:	1f010040 	fmadd	s0, s2, s1, s0
+ c30:	eb00007f 	cmp	x3, x0
+ c34:	54ffff61 	b.ne	c20 <matmul_ijk+0x40>  // b.any
+ c38:	bc2478e0 	str	s0, [x7, x4, lsl #2]
+ c3c:	91000484 	add	x4, x4, #0x1
+ c40:	910010a5 	add	x5, x5, #0x4
+ c44:	eb04011f 	cmp	x8, x4
+ c48:	54fffe41 	b.ne	c10 <matmul_ijk+0x30>  // b.any
+ c4c:	11000529 	add	w9, w9, #0x1
+ c50:	8b0200e7 	add	x7, x7, x2
+ c54:	8b0200c6 	add	x6, x6, x2
+ c58:	8b020063 	add	x3, x3, x2
+ c5c:	6b09015f 	cmp	w10, w9
+ c60:	54fffd41 	b.ne	c08 <matmul_ijk+0x28>  // b.any
+ c64:	d65f03c0 	ret
+
+Disassembly of section .fini:
