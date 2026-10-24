@@ -1,0 +1,4 @@
+bin/
+tools/
+*.data
+*.data.old
